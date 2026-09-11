@@ -1,0 +1,8 @@
+=================================
+       SMART DUSTBIN SYSTEM
+=================================
+Enter dustbin capacity (%): 20
+
+Dustbin Fill Level: 20%
+Status: LOW
+Dustbin has enough space.

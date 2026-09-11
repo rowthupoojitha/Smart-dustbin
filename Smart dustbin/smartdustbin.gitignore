@@ -1,0 +1,35 @@
+```gitignore
+# Java compiled files
+*.class
+
+# Build directories
+build/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+.nb-gradle/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary and log files
+*.log
+*.tmp
+```
